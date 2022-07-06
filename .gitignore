@@ -13,3 +13,13 @@
 
 # Dependency directories (remove the comment below to include it)
 # vendor/
+
+# ignore .idea folder
+
+**/.idea
+**/.idea/**/workspace.xml
+**/.idea/**/*.iml
+**/.idea/**/vsx.xml
+**/.idea/**/modules.xml
+go.mod
+go.sum
