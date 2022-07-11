@@ -1,6 +1,6 @@
 # kMarkDown
 
-A Markdown app use Fyne. 
+A Markdown app use Fyne.
 
 ## 中文亂碼問題
 
