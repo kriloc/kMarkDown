@@ -10,7 +10,7 @@ A Markdown app use Fyne.
 
 `FYNE_FONT=/Users/chengkrilo/Library/Fonts/GenRyuMinTW-Regular.ttf go run main.go`
 
-* 方法二
+* 方法二 (之後試驗)
 
 定義[主題](https://github.com/fyne-io/fyne/issues/2660)。
 
